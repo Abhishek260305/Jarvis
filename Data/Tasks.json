@@ -1,0 +1,24 @@
+{
+    "intents":[
+        {
+            "tag":"open",
+            "patterns":["open","launch","start","visit"
+            ],
+            "responses":["open"
+            ]
+        },{
+            "tag":"whatsapp",
+            "patterns":["whatsapp","message","send","chat"
+            ],
+            "responses":["whatsapp"
+            ]
+        },{
+            "tag":"deebot",
+            "patterns":["cleaning","mopping","sweeping"
+            ],
+            "responses":["deebot"
+            ]
+        }
+
+    ]
+}
